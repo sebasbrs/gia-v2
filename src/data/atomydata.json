@@ -1,0 +1,1892 @@
+{
+  "CO": {
+    "country": "Colombia",
+    "country_code": "CO",
+    "lang": "es",
+    "title": "Reclama tu membresía Atomy gratis hoy | Atomy Colombia",
+    "description": "Actívala ahora: obtén tu membresía Atomy gratis y empieza a disfrutar productos de alta calidad, beneficios exclusivos y una comunidad global. Sin costo, sin esperas.",
+    "keywords": "Atomy Colombia, membresía Atomy gratis, unirse a Atomy, registro Atomy, productos Atomy",
+    "url": [
+      "https://co.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://co.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Activar mi membresía gratis ahora",
+    "hero": {
+      "title": "Tu membresía gratis está a un clic de distancia",
+      "description": "Únete hoy mismo a miles de miembros en el mundo. Es gratis, es rápido, y tu comunidad ya te está esperando.",
+      "button": "Quiero mi membresía gratis ahora"
+    },
+    "business": {
+      "title": "Una membresía. Una comunidad. Una oportunidad que empieza hoy.",
+      "description": "Regístrate ahora, conoce los productos Atomy y da el primer paso dentro de nuestra comunidad global."
+    },
+    "benefits": {
+      "title": "¿Por qué activarla hoy?",
+      "items": [
+        {
+          "title": "Membresía 100% gratuita",
+          "description": "Sin costo de inscripción. Actívala ahora y empieza de inmediato."
+        },
+        {
+          "title": "Productos de alta calidad",
+          "description": "Accede hoy mismo a productos de salud, belleza, cuidado personal y consumo diario."
+        },
+        {
+          "title": "Precios competitivos",
+          "description": "Disfruta la filosofía Masstige de Atomy: calidad absoluta, precio absoluto, desde el primer día."
+        },
+        {
+          "title": "Comunidad global",
+          "description": "Conéctate al instante con una comunidad internacional de miembros."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Calidad absoluta a precio absoluto",
+      "description": "Descubre los productos que te esperan. Regístrate ahora y empieza a disfrutarlos."
+    },
+    "community": {
+      "title": "No lo dejes para después: únete hoy",
+      "description": "Miles de miembros ya están compartiendo, aprendiendo y creciendo juntos. Da tú también el primer paso.",
+      "button": "Unirme a la comunidad ahora"
+    },
+    "global": {
+      "title": "Una comunidad global — tu lugar ya está listo",
+      "description": "Conéctate con miembros de todo el mundo en el momento en que activas tu membresía gratis.",
+      "button": "Comenzar ahora"
+    },
+    "cta": {
+      "title": "¿Por qué esperar? Regístrate gratis ahora mismo",
+      "description": "Solo toma un minuto y es completamente gratis. Reclama tu membresía Atomy hoy.",
+      "button": "Reclamar mi membresía gratis"
+    },
+    "footer_text": "Una comunidad que crece compartiendo productos, conocimiento y experiencias. Únete a Atomy Colombia hoy mismo."
+  },
+  "MX": {
+    "country": "México",
+    "country_code": "MX",
+    "lang": "es",
+    "title": "Reclama tu membresía Atomy gratis hoy | Atomy México",
+    "description": "Actívala ahora: obtén tu membresía Atomy gratis y empieza a disfrutar productos de alta calidad, beneficios exclusivos y una comunidad global. Sin costo, sin esperas.",
+    "keywords": "Atomy México, membresía Atomy gratis, unirse a Atomy, registro Atomy, productos Atomy",
+    "url": [
+      "https://mx.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://mx.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Activar mi membresía gratis ahora",
+    "hero": {
+      "title": "Tu membresía gratis está a un clic de distancia",
+      "description": "Únete hoy mismo a miles de miembros en el mundo. Es gratis, es rápido, y tu comunidad ya te está esperando.",
+      "button": "Quiero mi membresía gratis ahora"
+    },
+    "business": {
+      "title": "Una membresía. Una comunidad. Una oportunidad que empieza hoy.",
+      "description": "Regístrate ahora, conoce los productos Atomy y da el primer paso dentro de nuestra comunidad global."
+    },
+    "benefits": {
+      "title": "¿Por qué activarla hoy?",
+      "items": [
+        {
+          "title": "Membresía 100% gratuita",
+          "description": "Sin costo de inscripción. Actívala ahora y empieza de inmediato."
+        },
+        {
+          "title": "Productos de alta calidad",
+          "description": "Accede hoy mismo a productos de salud, belleza, cuidado personal y consumo diario."
+        },
+        {
+          "title": "Precios competitivos",
+          "description": "Disfruta la filosofía Masstige de Atomy: calidad absoluta, precio absoluto, desde el primer día."
+        },
+        {
+          "title": "Comunidad global",
+          "description": "Conéctate al instante con una comunidad internacional de miembros."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Calidad absoluta a precio absoluto",
+      "description": "Descubre los productos que te esperan. Regístrate ahora y empieza a disfrutarlos."
+    },
+    "community": {
+      "title": "No lo dejes para después: únete hoy",
+      "description": "Miles de miembros ya están compartiendo, aprendiendo y creciendo juntos. Da tú también el primer paso.",
+      "button": "Unirme a la comunidad ahora"
+    },
+    "global": {
+      "title": "Una comunidad global — tu lugar ya está listo",
+      "description": "Conéctate con miembros de todo el mundo en el momento en que activas tu membresía gratis.",
+      "button": "Comenzar ahora"
+    },
+    "cta": {
+      "title": "¿Por qué esperar? Regístrate gratis ahora mismo",
+      "description": "Solo toma un minuto y es completamente gratis. Reclama tu membresía Atomy hoy.",
+      "button": "Reclamar mi membresía gratis"
+    },
+    "footer_text": "Una comunidad que crece compartiendo productos, conocimiento y experiencias. Únete a Atomy México hoy mismo."
+  },
+  "US": {
+    "country": "United States",
+    "country_code": "US",
+    "lang": "en",
+    "title": "Claim Your Free Atomy Membership Today | Atomy United States",
+    "description": "Sign up now for your free Atomy membership and start enjoying high-quality products, exclusive benefits and a global community — no fees, no waiting.",
+    "keywords": "Atomy United States, free Atomy membership, join Atomy, Atomy sign up, Atomy products",
+    "url": [
+      "https://us.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://us.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Claim My Free Membership Now",
+    "hero": {
+      "title": "Your Free Membership Is One Click Away",
+      "description": "Join thousands of members worldwide today. It's free, it's fast, and your community is already waiting.",
+      "button": "Get My Free Membership Now"
+    },
+    "business": {
+      "title": "One Membership. One Community. An Opportunity That Starts Today.",
+      "description": "Sign up now, discover Atomy's products, and take your first step inside our global community."
+    },
+    "benefits": {
+      "title": "Why Sign Up Today?",
+      "items": [
+        {
+          "title": "100% Free Membership",
+          "description": "No sign-up fee. Activate it now and start right away."
+        },
+        {
+          "title": "High-Quality Products",
+          "description": "Get instant access to health, beauty, personal care and everyday products."
+        },
+        {
+          "title": "Competitive Prices",
+          "description": "Experience Atomy's Masstige philosophy — absolute quality, absolute price — from day one."
+        },
+        {
+          "title": "Global Community",
+          "description": "Connect instantly with an international community of members."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Absolute Quality, Absolute Price",
+      "description": "See the products waiting for you. Sign up now and start enjoying them."
+    },
+    "community": {
+      "title": "Don't Wait — Join the Community Today",
+      "description": "Thousands of members are already sharing, learning and growing together. Take your first step now.",
+      "button": "Join the Community Now"
+    },
+    "global": {
+      "title": "A Global Community — Your Spot Is Ready",
+      "description": "Connect with members worldwide the moment you activate your free membership.",
+      "button": "Get Started Now"
+    },
+    "cta": {
+      "title": "Why Wait? Sign Up Free Right Now",
+      "description": "It only takes a minute and it's completely free. Claim your Atomy membership today.",
+      "button": "Claim My Free Membership Now"
+    },
+    "footer_text": "A community built on shared products, knowledge and growth. Join Atomy United States today."
+  },
+  "JP": {
+    "country": "Japan",
+    "country_code": "JP",
+    "lang": "ja",
+    "title": "今すぐ無料メンバーシップを申請 | Atomy Japan",
+    "description": "無料のAtomyメンバーシップは今すぐ申請できます。高品質な商品、限定特典、グローバルなコミュニティを今日から体験しましょう。費用も、待ち時間もかかりません。",
+    "keywords": "Atomy Japan, Atomy 無料メンバーシップ, Atomy 登録, Atomy 入会, Atomy 商品",
+    "url": [
+      "https://jp.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://jp.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "今すぐ無料メンバーシップを申請する",
+    "hero": {
+      "title": "無料メンバーシップはワンクリックで手に入る",
+      "description": "世界中の仲間と今日から一緒に。登録は無料・簡単、あなたのコミュニティはもう待っています。",
+      "button": "今すぐ無料メンバーシップを申請する"
+    },
+    "business": {
+      "title": "ひとつのメンバーシップ。ひとつのコミュニティ。今日から始まる可能性。",
+      "description": "今すぐ登録して、Atomyの商品を知り、グローバルコミュニティへの第一歩を踏み出しましょう。"
+    },
+    "benefits": {
+      "title": "今すぐ登録すべき理由",
+      "items": [
+        {
+          "title": "完全無料メンバーシップ",
+          "description": "登録料は一切かかりません。今すぐ有効化してすぐに始められます。"
+        },
+        {
+          "title": "高品質な商品",
+          "description": "健康、美容、パーソナルケア、日用品にすぐアクセスできます。"
+        },
+        {
+          "title": "競争力のある価格",
+          "description": "初日からAtomyのMasstige哲学、絶対品質・絶対価格を体験できます。"
+        },
+        {
+          "title": "グローバルコミュニティ",
+          "description": "登録した瞬間から国際的なコミュニティとつながれます。"
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "絶対品質、絶対価格",
+      "description": "あなたを待っている商品をご覧ください。今すぐ登録して体験しましょう。"
+    },
+    "community": {
+      "title": "先延ばしにせず、今日コミュニティに参加",
+      "description": "すでに数千人のメンバーが知識や経験を共有し、共に成長しています。あなたも今、その一歩を。",
+      "button": "今すぐコミュニティに参加する"
+    },
+    "global": {
+      "title": "グローバルコミュニティ — あなたの席はもう用意されています",
+      "description": "無料メンバーシップを有効化した瞬間から、世界中のメンバーとつながれます。",
+      "button": "今すぐ始める"
+    },
+    "cta": {
+      "title": "なぜ待つのですか？今すぐ無料で登録しましょう",
+      "description": "たった1分、完全無料です。今日、あなたのAtomyメンバーシップを手に入れましょう。",
+      "button": "今すぐ無料メンバーシップを申請する"
+    },
+    "footer_text": "商品、知識、成長を共有するコミュニティです。今日、Atomy Japanに参加しましょう。"
+  },
+  "KR": {
+    "country": "대한민국 (South Korea)",
+    "country_code": "KR",
+    "lang": "ko",
+    "title": "지금 바로 무료 멤버십 신청 | Atomy 대한민국",
+    "description": "무료 Atomy 멤버십을 지금 신청하세요. 고품질 제품, 특별한 혜택, 글로벌 커뮤니티를 오늘부터 누릴 수 있습니다. 비용도, 기다림도 없습니다.",
+    "keywords": "Atomy 대한민국, 애터미 무료 멤버십, 애터미 가입, 애터미 등록, 애터미 제품",
+    "url": [
+      "https://kr.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://kr.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "지금 무료 멤버십 신청하기",
+    "hero": {
+      "title": "무료 멤버십, 클릭 한 번이면 충분합니다",
+      "description": "전 세계 수천 명의 멤버와 오늘 함께하세요. 가입은 무료이고 빠르며, 당신의 커뮤니티가 이미 기다리고 있습니다.",
+      "button": "지금 무료 멤버십 신청하기"
+    },
+    "business": {
+      "title": "하나의 멤버십. 하나의 커뮤니티. 오늘 시작되는 기회.",
+      "description": "지금 가입하고 Atomy 제품을 만나보세요. 글로벌 커뮤니티의 첫걸음을 지금 내딛으세요."
+    },
+    "benefits": {
+      "title": "왜 오늘 가입해야 할까요?",
+      "items": [
+        {
+          "title": "100% 무료 멤버십",
+          "description": "가입비가 없습니다. 지금 바로 활성화하고 시작하세요."
+        },
+        {
+          "title": "고품질 제품",
+          "description": "건강, 뷰티, 퍼스널케어, 생활용품에 즉시 접근하세요."
+        },
+        {
+          "title": "합리적인 가격",
+          "description": "Atomy의 매스티지 전략, 절대품질 절대가격을 오늘부터 경험하세요."
+        },
+        {
+          "title": "글로벌 커뮤니티",
+          "description": "가입 즉시 국제적인 멤버 커뮤니티와 연결됩니다."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "절대품질, 절대가격",
+      "description": "당신을 기다리는 제품들을 확인하세요. 지금 가입하고 바로 이용해 보세요."
+    },
+    "community": {
+      "title": "미루지 마세요 — 오늘 커뮤니티에 참여하세요",
+      "description": "이미 수천 명의 멤버가 함께 나누고, 배우고, 성장하고 있습니다. 지금 그 첫걸음을 내딛으세요.",
+      "button": "지금 커뮤니티 참여하기"
+    },
+    "global": {
+      "title": "글로벌 커뮤니티 — 당신의 자리가 준비되어 있습니다",
+      "description": "무료 멤버십을 활성화하는 순간, 전 세계 멤버들과 연결됩니다.",
+      "button": "지금 시작하기"
+    },
+    "cta": {
+      "title": "왜 기다리나요? 지금 바로 무료로 가입하세요",
+      "description": "단 1분, 완전 무료입니다. 오늘 당신의 Atomy 멤버십을 받으세요.",
+      "button": "지금 무료 멤버십 신청하기"
+    },
+    "footer_text": "제품, 지식, 성장을 함께 나누는 커뮮니티입니다. 오늘 Atomy 대한민국에 참여하세요."
+  },
+  "TW": {
+    "country": "Taiwan",
+    "country_code": "TW",
+    "lang": "zh-Hant",
+    "title": "立即申請免費會員 | Atomy 台灣",
+    "description": "現在就申請免費的Atomy會員資格，立即開始享受高品質產品、專屬優惠與全球社群。免費、免等待。",
+    "keywords": "Atomy 台灣, Atomy免費會員, 加入Atomy, Atomy註冊, Atomy產品",
+    "url": [
+      "https://tw.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://tw.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "立即啟用免費會員",
+    "hero": {
+      "title": "免費會員資格，只差一次點擊",
+      "description": "今天就加入全球數千位會員。免費、快速，你的社群已經在等你。",
+      "button": "立即申請免費會員"
+    },
+    "business": {
+      "title": "一個會員資格，一個社群，今天就開始的機會。",
+      "description": "立即註冊，認識Atomy的產品，踏出加入全球社群的第一步。"
+    },
+    "benefits": {
+      "title": "為什麼要今天就註冊？",
+      "items": [
+        {
+          "title": "100%免費會員",
+          "description": "無需註冊費，現在啟用，立即開始。"
+        },
+        {
+          "title": "高品質產品",
+          "description": "立即享有健康、美容、個人護理及日常用品。"
+        },
+        {
+          "title": "極具競爭力的價格",
+          "description": "從第一天起體驗Atomy的Masstige理念：絕對品質、絕對價格。"
+        },
+        {
+          "title": "全球社群",
+          "description": "註冊後立即與國際會員社群連結。"
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "絕對品質，絕對價格",
+      "description": "看看正在等你的產品，現在就註冊立即體驗。"
+    },
+    "community": {
+      "title": "別再等了 — 今天就加入社群",
+      "description": "數千位會員已經在分享、學習與一起成長。現在就邁出你的第一步。",
+      "button": "立即加入社群"
+    },
+    "global": {
+      "title": "全球社群 — 你的位置已經準備好了",
+      "description": "啟用免費會員資格的那一刻，就能與全球會員連結。",
+      "button": "立即開始"
+    },
+    "cta": {
+      "title": "為什麼要等？現在就免費註冊",
+      "description": "只需一分鐘，完全免費。今天就領取你的Atomy會員資格。",
+      "button": "立即申請免費會員"
+    },
+    "footer_text": "一個共享產品、知識與成長的社群。今天就加入Atomy 台灣。"
+  },
+  "SG": {
+    "country": "Singapore",
+    "country_code": "SG",
+    "lang": "en",
+    "title": "Claim Your Free Atomy Membership Today | Atomy Singapore",
+    "description": "Sign up now for your free Atomy membership and start enjoying high-quality products, exclusive benefits and a global community — no fees, no waiting.",
+    "keywords": "Atomy Singapore, free Atomy membership, join Atomy, Atomy sign up, Atomy products",
+    "url": [
+      "https://sg.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://sg.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Claim My Free Membership Now",
+    "hero": {
+      "title": "Your Free Membership Is One Click Away",
+      "description": "Join thousands of members worldwide today. It's free, it's fast, and your community is already waiting.",
+      "button": "Get My Free Membership Now"
+    },
+    "business": {
+      "title": "One Membership. One Community. An Opportunity That Starts Today.",
+      "description": "Sign up now, discover Atomy's products, and take your first step inside our global community."
+    },
+    "benefits": {
+      "title": "Why Sign Up Today?",
+      "items": [
+        {
+          "title": "100% Free Membership",
+          "description": "No sign-up fee. Activate it now and start right away."
+        },
+        {
+          "title": "High-Quality Products",
+          "description": "Get instant access to health, beauty, personal care and everyday products."
+        },
+        {
+          "title": "Competitive Prices",
+          "description": "Experience Atomy's Masstige philosophy — absolute quality, absolute price — from day one."
+        },
+        {
+          "title": "Global Community",
+          "description": "Connect instantly with an international community of members."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Absolute Quality, Absolute Price",
+      "description": "See the products waiting for you. Sign up now and start enjoying them."
+    },
+    "community": {
+      "title": "Don't Wait — Join the Community Today",
+      "description": "Thousands of members are already sharing, learning and growing together. Take your first step now.",
+      "button": "Join the Community Now"
+    },
+    "global": {
+      "title": "A Global Community — Your Spot Is Ready",
+      "description": "Connect with members worldwide the moment you activate your free membership.",
+      "button": "Get Started Now"
+    },
+    "cta": {
+      "title": "Why Wait? Sign Up Free Right Now",
+      "description": "It only takes a minute and it's completely free. Claim your Atomy membership today.",
+      "button": "Claim My Free Membership Now"
+    },
+    "footer_text": "A community built on shared products, knowledge and growth. Join Atomy Singapore today."
+  },
+  "KH": {
+    "country": "Cambodia",
+    "country_code": "KH",
+    "lang": "km",
+    "title": "ទទួលបានសមាជិកភាពឥតគិតថ្លៃឥឡូវនេះ | Atomy កម្ពុជា",
+    "description": "ចុះឈ្មោះឥឡូវនេះសម្រាប់សមាជិកភាព Atomy ឥតគិតថ្លៃ ហើយចាប់ផ្តើមទទួលបានផលិតផលគុណភាពខ្ពស់ អត្ថប្រយោជន៍ផ្តាច់មុខ និងសហគមន៍សកលលោក។ គ្មានថ្លៃឈ្នួល គ្មានការរង់ចាំ។",
+    "keywords": "Atomy កម្ពុជា, សមាជិកភាព Atomy ឥតគិតថ្លៃ, ចូលរួម Atomy, ចុះឈ្មោះ Atomy, ផលិតផល Atomy",
+    "url": [
+      "https://kh.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://kh.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "ទទួលបានសមាជិកភាពឥតគិតថ្លៃឥឡូវនេះ",
+    "hero": {
+      "title": "សមាជិកភាពឥតគិតថ្លៃរបស់អ្នកនៅឆ្ងាយតែមួយចុច",
+      "description": "ចូលរួមជាមួយសមាជិករាប់ពាន់នាក់នៅជុំវិញពិភពលោកថ្ងៃនេះ។ ឥតគិតថ្លៃ លឿន ហើយសហគមន៍របស់អ្នកកំពុងរង់ចាំ។",
+      "button": "ទទួលបានសមាជិកភាពឥតគិតថ្លៃឥឡូវនេះ"
+    },
+    "business": {
+      "title": "សមាជិកភាពមួយ។ សហគមន៍មួយ។ ឱកាសដែលចាប់ផ្តើមថ្ងៃនេះ។",
+      "description": "ចុះឈ្មោះឥឡូវនេះ ស្វែងយល់ពីផលិតផល Atomy និងចាប់ផ្តើមជំហានទីមួយក្នុងសហគមន៍សកលលោករបស់យើង។"
+    },
+    "benefits": {
+      "title": "ហេតុអ្វីត្រូវចុះឈ្មោះថ្ងៃនេះ?",
+      "items": [
+        {
+          "title": "សមាជិកភាពឥតគិតថ្លៃ១០០%",
+          "description": "គ្មានថ្លៃចុះឈ្មោះ។ ធ្វើឱ្យសកម្មឥឡូវនេះ ហើយចាប់ផ្តើមភ្លាមៗ។"
+        },
+        {
+          "title": "ផលិតផលគុណភាពខ្ពស់",
+          "description": "ទទួលបានការចូលប្រើភ្លាមៗចំពោះផលិតផលសុខភាព សម្ផស្ស និងប្រើប្រាស់ប្រចាំថ្ងៃ។"
+        },
+        {
+          "title": "តម្លៃប្រកួតប្រជែង",
+          "description": "ទទួលបានទស្សនវិជ្ជា Masstige របស់ Atomy គុណភាពដាច់ខាត តម្លៃដាច់ខាត ចាប់ពីថ្ងៃដំបូង។"
+        },
+        {
+          "title": "សហគមន៍សកលលោក",
+          "description": "ភ្ជាប់ភ្លាមៗជាមួយសហគមន៍អន្តរជាតិនៃសមាជិក។"
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "គុណភាពដាច់ខាត តម្លៃដាច់ខាត",
+      "description": "សូមមើលផលិតផលដែលកំពុងរង់ចាំអ្នក។ ចុះឈ្មោះឥឡូវនេះដើម្បីចាប់ផ្តើមប្រើប្រាស់។"
+    },
+    "community": {
+      "title": "កុំរង់ចាំទៀត — ចូលរួមសហគមន៍ថ្ងៃនេះ",
+      "description": "សមាជិករាប់ពាន់នាក់កំពុងចែករំលែក រៀនសូត្រ និងរីកចម្រើនជាមួយគ្នា។ ចាប់ផ្តើមជំហានទីមួយរបស់អ្នកឥឡូវនេះ។",
+      "button": "ចូលរួមសហគមន៍ឥឡូវនេះ"
+    },
+    "global": {
+      "title": "សហគមន៍សកលលោក — កន្លែងរបស់អ្នករួចរាល់ហើយ",
+      "description": "ភ្ជាប់ជាមួយសមាជិកនៅជុំវិញពិភពលោកនៅពេលអ្នកធ្វើឱ្យសមាជិកភាពឥតគិតថ្លៃសកម្ម។",
+      "button": "ចាប់ផ្តើមឥឡូវនេះ"
+    },
+    "cta": {
+      "title": "ហេតុអ្វីត្រូវរង់ចាំ? ចុះឈ្មោះឥតគិតថ្លៃឥឡូវនេះ",
+      "description": "ត្រូវការតែមួយនាទី និងឥតគិតថ្លៃទាំងស្រុង។ ទទួលបានសមាជិកភាព Atomy របស់អ្នកថ្ងៃនេះ។",
+      "button": "ទទួលបានសមាជិកភាពឥតគិតថ្លៃឥឡូវនេះ"
+    },
+    "footer_text": "សហគមន៍មួយកសាងឡើងលើផលិតផល ចំណេះដឹង និងកំណើនរួម។ ចូលរួម Atomy កម្ពុជា ថ្ងៃនេះ។"
+  },
+  "PH": {
+    "country": "Philippines",
+    "country_code": "PH",
+    "lang": "en",
+    "title": "Claim Your Free Atomy Membership Today | Atomy Philippines",
+    "description": "Sign up now for your free Atomy membership and start enjoying high-quality products, exclusive benefits and a global community — no fees, no waiting.",
+    "keywords": "Atomy Philippines, free Atomy membership, join Atomy, Atomy sign up, Atomy products",
+    "url": [
+      "https://ph.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://ph.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Claim My Free Membership Now",
+    "hero": {
+      "title": "Your Free Membership Is One Click Away",
+      "description": "Join thousands of members worldwide today. It's free, it's fast, and your community is already waiting.",
+      "button": "Get My Free Membership Now"
+    },
+    "business": {
+      "title": "One Membership. One Community. An Opportunity That Starts Today.",
+      "description": "Sign up now, discover Atomy's products, and take your first step inside our global community."
+    },
+    "benefits": {
+      "title": "Why Sign Up Today?",
+      "items": [
+        {
+          "title": "100% Free Membership",
+          "description": "No sign-up fee. Activate it now and start right away."
+        },
+        {
+          "title": "High-Quality Products",
+          "description": "Get instant access to health, beauty, personal care and everyday products."
+        },
+        {
+          "title": "Competitive Prices",
+          "description": "Experience Atomy's Masstige philosophy — absolute quality, absolute price — from day one."
+        },
+        {
+          "title": "Global Community",
+          "description": "Connect instantly with an international community of members."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Absolute Quality, Absolute Price",
+      "description": "See the products waiting for you. Sign up now and start enjoying them."
+    },
+    "community": {
+      "title": "Don't Wait — Join the Community Today",
+      "description": "Thousands of members are already sharing, learning and growing together. Take your first step now.",
+      "button": "Join the Community Now"
+    },
+    "global": {
+      "title": "A Global Community — Your Spot Is Ready",
+      "description": "Connect with members worldwide the moment you activate your free membership.",
+      "button": "Get Started Now"
+    },
+    "cta": {
+      "title": "Why Wait? Sign Up Free Right Now",
+      "description": "It only takes a minute and it's completely free. Claim your Atomy membership today.",
+      "button": "Claim My Free Membership Now"
+    },
+    "footer_text": "A community built on shared products, knowledge and growth. Join Atomy Philippines today."
+  },
+  "MY": {
+    "country": "Malaysia",
+    "country_code": "MY",
+    "lang": "en",
+    "title": "Claim Your Free Atomy Membership Today | Atomy Malaysia",
+    "description": "Sign up now for your free Atomy membership and start enjoying high-quality products, exclusive benefits and a global community — no fees, no waiting.",
+    "keywords": "Atomy Malaysia, free Atomy membership, join Atomy, Atomy sign up, Atomy products",
+    "url": [
+      "https://my.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://my.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Claim My Free Membership Now",
+    "hero": {
+      "title": "Your Free Membership Is One Click Away",
+      "description": "Join thousands of members worldwide today. It's free, it's fast, and your community is already waiting.",
+      "button": "Get My Free Membership Now"
+    },
+    "business": {
+      "title": "One Membership. One Community. An Opportunity That Starts Today.",
+      "description": "Sign up now, discover Atomy's products, and take your first step inside our global community."
+    },
+    "benefits": {
+      "title": "Why Sign Up Today?",
+      "items": [
+        {
+          "title": "100% Free Membership",
+          "description": "No sign-up fee. Activate it now and start right away."
+        },
+        {
+          "title": "High-Quality Products",
+          "description": "Get instant access to health, beauty, personal care and everyday products."
+        },
+        {
+          "title": "Competitive Prices",
+          "description": "Experience Atomy's Masstige philosophy — absolute quality, absolute price — from day one."
+        },
+        {
+          "title": "Global Community",
+          "description": "Connect instantly with an international community of members."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Absolute Quality, Absolute Price",
+      "description": "See the products waiting for you. Sign up now and start enjoying them."
+    },
+    "community": {
+      "title": "Don't Wait — Join the Community Today",
+      "description": "Thousands of members are already sharing, learning and growing together. Take your first step now.",
+      "button": "Join the Community Now"
+    },
+    "global": {
+      "title": "A Global Community — Your Spot Is Ready",
+      "description": "Connect with members worldwide the moment you activate your free membership.",
+      "button": "Get Started Now"
+    },
+    "cta": {
+      "title": "Why Wait? Sign Up Free Right Now",
+      "description": "It only takes a minute and it's completely free. Claim your Atomy membership today.",
+      "button": "Claim My Free Membership Now"
+    },
+    "footer_text": "A community built on shared products, knowledge and growth. Join Atomy Malaysia today."
+  },
+  "TH": {
+    "country": "Thailand",
+    "country_code": "TH",
+    "lang": "th",
+    "title": "รับสิทธิ์สมาชิกฟรีตอนนี้ | Atomy ประเทศไทย",
+    "description": "สมัครสมาชิก Atomy ฟรีได้แล้ววันนี้ เริ่มรับสิทธิประโยชน์จากสินค้าคุณภาพสูง สิทธิพิเศษเฉพาะสมาชิก และชุมชนระดับโลก ไม่มีค่าใช้จ่าย ไม่ต้องรอ",
+    "keywords": "Atomy ประเทศไทย, สมาชิก Atomy ฟรี, สมัคร Atomy, ลงทะเบียน Atomy, สินค้า Atomy",
+    "url": [
+      "https://th.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://th.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "รับสิทธิ์สมาชิกฟรีตอนนี้",
+    "hero": {
+      "title": "สมาชิกฟรีของคุณอยู่แค่คลิกเดียว",
+      "description": "เข้าร่วมกับสมาชิกนับพันทั่วโลกได้วันนี้ ฟรี รวดเร็ว และชุมชนของคุณกำลังรออยู่",
+      "button": "รับสิทธิ์สมาชิกฟรีตอนนี้"
+    },
+    "business": {
+      "title": "หนึ่งสมาชิกภาพ หนึ่งชุมชน โอกาสที่เริ่มต้นได้วันนี้",
+      "description": "สมัครตอนนี้ ค้นพบสินค้า Atomy และก้าวแรกสู่ชุมชนระดับโลกของเรา"
+    },
+    "benefits": {
+      "title": "ทำไมต้องสมัครวันนี้?",
+      "items": [
+        {
+          "title": "สมาชิกฟรี 100%",
+          "description": "ไม่มีค่าธรรมเนียมสมัคร เปิดใช้งานตอนนี้และเริ่มได้ทันที"
+        },
+        {
+          "title": "สินค้าคุณภาพสูง",
+          "description": "เข้าถึงสินค้าสุขภาพ ความงาม ของใช้ส่วนตัว และของใช้ประจำวันได้ทันที"
+        },
+        {
+          "title": "ราคาที่แข่งขันได้",
+          "description": "สัมผัสปรัชญา Masstige ของ Atomy คุณภาพสูงสุด ราคาคุ้มค่าที่สุด ตั้งแต่วันแรก"
+        },
+        {
+          "title": "ชุมชนระดับโลก",
+          "description": "เชื่อมต่อกับสมาชิกนานาชาติได้ทันทีที่สมัคร"
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "คุณภาพสูงสุด ราคาคุ้มค่าที่สุด",
+      "description": "ดูสินค้าที่กำลังรอคุณอยู่ สมัครตอนนี้เพื่อเริ่มใช้งาน"
+    },
+    "community": {
+      "title": "ไม่ต้องรอ — เข้าร่วมชุมชนวันนี้",
+      "description": "สมาชิกนับพันกำลังแบ่งปัน เรียนรู้ และเติบโตไปด้วยกัน ก้าวแรกของคุณเริ่มได้ตอนนี้",
+      "button": "เข้าร่วมชุมชนตอนนี้"
+    },
+    "global": {
+      "title": "ชุมชนระดับโลก — ที่ของคุณพร้อมแล้ว",
+      "description": "เชื่อมต่อกับสมาชิกทั่วโลกทันทีที่คุณเปิดใช้งานสมาชิกฟรี",
+      "button": "เริ่มต้นตอนนี้"
+    },
+    "cta": {
+      "title": "จะรอทำไม? สมัครฟรีได้เลยตอนนี้",
+      "description": "ใช้เวลาเพียงนาทีเดียวและไม่มีค่าใช้จ่าย รับสิทธิ์สมาชิก Atomy ของคุณวันนี้",
+      "button": "รับสิทธิ์สมาชิกฟรีตอนนี้"
+    },
+    "footer_text": "ชุมชนที่เติบโตด้วยการแบ่งปันสินค้า ความรู้ และประสบการณ์ เข้าร่วม Atomy ประเทศไทย วันนี้"
+  },
+  "AU": {
+    "country": "Australia",
+    "country_code": "AU",
+    "lang": "en",
+    "title": "Claim Your Free Atomy Membership Today | Atomy Australia",
+    "description": "Sign up now for your free Atomy membership and start enjoying high-quality products, exclusive benefits and a global community — no fees, no waiting.",
+    "keywords": "Atomy Australia, free Atomy membership, join Atomy, Atomy sign up, Atomy products",
+    "url": [
+      "https://au.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://au.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Claim My Free Membership Now",
+    "hero": {
+      "title": "Your Free Membership Is One Click Away",
+      "description": "Join thousands of members worldwide today. It's free, it's fast, and your community is already waiting.",
+      "button": "Get My Free Membership Now"
+    },
+    "business": {
+      "title": "One Membership. One Community. An Opportunity That Starts Today.",
+      "description": "Sign up now, discover Atomy's products, and take your first step inside our global community."
+    },
+    "benefits": {
+      "title": "Why Sign Up Today?",
+      "items": [
+        {
+          "title": "100% Free Membership",
+          "description": "No sign-up fee. Activate it now and start right away."
+        },
+        {
+          "title": "High-Quality Products",
+          "description": "Get instant access to health, beauty, personal care and everyday products."
+        },
+        {
+          "title": "Competitive Prices",
+          "description": "Experience Atomy's Masstige philosophy — absolute quality, absolute price — from day one."
+        },
+        {
+          "title": "Global Community",
+          "description": "Connect instantly with an international community of members."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Absolute Quality, Absolute Price",
+      "description": "See the products waiting for you. Sign up now and start enjoying them."
+    },
+    "community": {
+      "title": "Don't Wait — Join the Community Today",
+      "description": "Thousands of members are already sharing, learning and growing together. Take your first step now.",
+      "button": "Join the Community Now"
+    },
+    "global": {
+      "title": "A Global Community — Your Spot Is Ready",
+      "description": "Connect with members worldwide the moment you activate your free membership.",
+      "button": "Get Started Now"
+    },
+    "cta": {
+      "title": "Why Wait? Sign Up Free Right Now",
+      "description": "It only takes a minute and it's completely free. Claim your Atomy membership today.",
+      "button": "Claim My Free Membership Now"
+    },
+    "footer_text": "A community built on shared products, knowledge and growth. Join Atomy Australia today."
+  },
+  "ID": {
+    "country": "Indonesia",
+    "country_code": "ID",
+    "lang": "id",
+    "title": "Klaim Membership Gratis Anda Sekarang | Atomy Indonesia",
+    "description": "Daftar sekarang untuk membership Atomy gratis dan mulai nikmati produk berkualitas tinggi, keuntungan eksklusif, serta komunitas global. Tanpa biaya, tanpa menunggu.",
+    "keywords": "Atomy Indonesia, membership Atomy gratis, gabung Atomy, daftar Atomy, produk Atomy",
+    "url": [
+      "https://id.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://id.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Klaim Membership Gratis Saya Sekarang",
+    "hero": {
+      "title": "Membership Gratis Anda Hanya Satu Klik Lagi",
+      "description": "Bergabunglah dengan ribuan anggota di seluruh dunia hari ini. Gratis, cepat, dan komunitas Anda sudah menunggu.",
+      "button": "Dapatkan Membership Gratis Saya Sekarang"
+    },
+    "business": {
+      "title": "Satu Membership. Satu Komunitas. Peluang yang Dimulai Hari Ini.",
+      "description": "Daftar sekarang, kenali produk Atomy, dan ambil langkah pertama Anda dalam komunitas global kami."
+    },
+    "benefits": {
+      "title": "Mengapa Harus Daftar Hari Ini?",
+      "items": [
+        {
+          "title": "Membership 100% Gratis",
+          "description": "Tidak ada biaya pendaftaran. Aktifkan sekarang dan mulai langsung."
+        },
+        {
+          "title": "Produk Berkualitas Tinggi",
+          "description": "Dapatkan akses langsung ke produk kesehatan, kecantikan, perawatan pribadi, dan kebutuhan sehari-hari."
+        },
+        {
+          "title": "Harga Kompetitif",
+          "description": "Rasakan filosofi Masstige Atomy: kualitas absolut, harga absolut, sejak hari pertama."
+        },
+        {
+          "title": "Komunitas Global",
+          "description": "Terhubung langsung dengan komunitas internasional para anggota."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Kualitas Absolut, Harga Absolut",
+      "description": "Lihat produk yang sudah menunggu Anda. Daftar sekarang dan mulai menikmatinya."
+    },
+    "community": {
+      "title": "Jangan Tunda — Bergabunglah dengan Komunitas Hari Ini",
+      "description": "Ribuan anggota sudah saling berbagi, belajar, dan berkembang bersama. Ambil langkah pertama Anda sekarang.",
+      "button": "Gabung Komunitas Sekarang"
+    },
+    "global": {
+      "title": "Komunitas Global — Tempat Anda Sudah Siap",
+      "description": "Terhubung dengan anggota di seluruh dunia begitu Anda mengaktifkan membership gratis Anda.",
+      "button": "Mulai Sekarang"
+    },
+    "cta": {
+      "title": "Kenapa Menunggu? Daftar Gratis Sekarang Juga",
+      "description": "Hanya butuh satu menit dan sepenuhnya gratis. Klaim membership Atomy Anda hari ini.",
+      "button": "Klaim Membership Gratis Saya Sekarang"
+    },
+    "footer_text": "Komunitas yang tumbuh dengan berbagi produk, pengetahuan, dan pengalaman. Bergabunglah dengan Atomy Indonesia hari ini."
+  },
+  "HK": {
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "lang": "zh-Hant",
+    "title": "立即申請免費會員 | Atomy 香港",
+    "description": "現在就申請免費的Atomy會員資格，立即開始享受高品質產品、專屬優惠與全球社群。免費、免等待。",
+    "keywords": "Atomy 香港, Atomy免費會員, 加入Atomy, Atomy註冊, Atomy產品",
+    "url": [
+      "https://hk.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://hk.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "立即啟用免費會員",
+    "hero": {
+      "title": "免費會員資格，只差一次點擊",
+      "description": "今天就加入全球數千位會員。免費、快速，你的社群已經在等你。",
+      "button": "立即申請免費會員"
+    },
+    "business": {
+      "title": "一個會員資格，一個社群，今天就開始的機會。",
+      "description": "立即註冊，認識Atomy的產品，踏出加入全球社群的第一步。"
+    },
+    "benefits": {
+      "title": "為什麼要今天就註冊？",
+      "items": [
+        {
+          "title": "100%免費會員",
+          "description": "無需註冊費，現在啟用，立即開始。"
+        },
+        {
+          "title": "高品質產品",
+          "description": "立即享有健康、美容、個人護理及日常用品。"
+        },
+        {
+          "title": "極具競爭力的價格",
+          "description": "從第一天起體驗Atomy的Masstige理念：絕對品質、絕對價格。"
+        },
+        {
+          "title": "全球社群",
+          "description": "註冊後立即與國際會員社群連結。"
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "絕對品質，絕對價格",
+      "description": "看看正在等你的產品，現在就註冊立即體驗。"
+    },
+    "community": {
+      "title": "別再等了 — 今天就加入社群",
+      "description": "數千位會員已經在分享、學習與一起成長。現在就邁出你的第一步。",
+      "button": "立即加入社群"
+    },
+    "global": {
+      "title": "全球社群 — 你的位置已經準備好了",
+      "description": "啟用免費會員資格的那一刻，就能與全球會員連結。",
+      "button": "立即開始"
+    },
+    "cta": {
+      "title": "為什麼要等？現在就免費註冊",
+      "description": "只需一分鐘，完全免費。今天就領取你的Atomy會員資格。",
+      "button": "立即申請免費會員"
+    },
+    "footer_text": "一個共享產品、知識與成長的社群。今天就加入Atomy 香港。"
+  },
+  "IN": {
+    "country": "India",
+    "country_code": "IN",
+    "lang": "en",
+    "title": "Claim Your Free Atomy Membership Today | Atomy India",
+    "description": "Sign up now for your free Atomy membership and start enjoying high-quality products, exclusive benefits and a global community — no fees, no waiting.",
+    "keywords": "Atomy India, free Atomy membership, join Atomy, Atomy sign up, Atomy products",
+    "url": [
+      "https://in.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://in.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Claim My Free Membership Now",
+    "hero": {
+      "title": "Your Free Membership Is One Click Away",
+      "description": "Join thousands of members worldwide today. It's free, it's fast, and your community is already waiting.",
+      "button": "Get My Free Membership Now"
+    },
+    "business": {
+      "title": "One Membership. One Community. An Opportunity That Starts Today.",
+      "description": "Sign up now, discover Atomy's products, and take your first step inside our global community."
+    },
+    "benefits": {
+      "title": "Why Sign Up Today?",
+      "items": [
+        {
+          "title": "100% Free Membership",
+          "description": "No sign-up fee. Activate it now and start right away."
+        },
+        {
+          "title": "High-Quality Products",
+          "description": "Get instant access to health, beauty, personal care and everyday products."
+        },
+        {
+          "title": "Competitive Prices",
+          "description": "Experience Atomy's Masstige philosophy — absolute quality, absolute price — from day one."
+        },
+        {
+          "title": "Global Community",
+          "description": "Connect instantly with an international community of members."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Absolute Quality, Absolute Price",
+      "description": "See the products waiting for you. Sign up now and start enjoying them."
+    },
+    "community": {
+      "title": "Don't Wait — Join the Community Today",
+      "description": "Thousands of members are already sharing, learning and growing together. Take your first step now.",
+      "button": "Join the Community Now"
+    },
+    "global": {
+      "title": "A Global Community — Your Spot Is Ready",
+      "description": "Connect with members worldwide the moment you activate your free membership.",
+      "button": "Get Started Now"
+    },
+    "cta": {
+      "title": "Why Wait? Sign Up Free Right Now",
+      "description": "It only takes a minute and it's completely free. Claim your Atomy membership today.",
+      "button": "Claim My Free Membership Now"
+    },
+    "footer_text": "A community built on shared products, knowledge and growth. Join Atomy India today."
+  },
+  "NZ": {
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "lang": "en",
+    "title": "Claim Your Free Atomy Membership Today | Atomy New Zealand",
+    "description": "Sign up now for your free Atomy membership and start enjoying high-quality products, exclusive benefits and a global community — no fees, no waiting.",
+    "keywords": "Atomy New Zealand, free Atomy membership, join Atomy, Atomy sign up, Atomy products",
+    "url": [
+      "https://nz.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://nz.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Claim My Free Membership Now",
+    "hero": {
+      "title": "Your Free Membership Is One Click Away",
+      "description": "Join thousands of members worldwide today. It's free, it's fast, and your community is already waiting.",
+      "button": "Get My Free Membership Now"
+    },
+    "business": {
+      "title": "One Membership. One Community. An Opportunity That Starts Today.",
+      "description": "Sign up now, discover Atomy's products, and take your first step inside our global community."
+    },
+    "benefits": {
+      "title": "Why Sign Up Today?",
+      "items": [
+        {
+          "title": "100% Free Membership",
+          "description": "No sign-up fee. Activate it now and start right away."
+        },
+        {
+          "title": "High-Quality Products",
+          "description": "Get instant access to health, beauty, personal care and everyday products."
+        },
+        {
+          "title": "Competitive Prices",
+          "description": "Experience Atomy's Masstige philosophy — absolute quality, absolute price — from day one."
+        },
+        {
+          "title": "Global Community",
+          "description": "Connect instantly with an international community of members."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Absolute Quality, Absolute Price",
+      "description": "See the products waiting for you. Sign up now and start enjoying them."
+    },
+    "community": {
+      "title": "Don't Wait — Join the Community Today",
+      "description": "Thousands of members are already sharing, learning and growing together. Take your first step now.",
+      "button": "Join the Community Now"
+    },
+    "global": {
+      "title": "A Global Community — Your Spot Is Ready",
+      "description": "Connect with members worldwide the moment you activate your free membership.",
+      "button": "Get Started Now"
+    },
+    "cta": {
+      "title": "Why Wait? Sign Up Free Right Now",
+      "description": "It only takes a minute and it's completely free. Claim your Atomy membership today.",
+      "button": "Claim My Free Membership Now"
+    },
+    "footer_text": "A community built on shared products, knowledge and growth. Join Atomy New Zealand today."
+  },
+  "KZ": {
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "lang": "ru",
+    "title": "Получите бесплатное членство прямо сейчас | Atomy Казахстан",
+    "description": "Зарегистрируйтесь сейчас и получите бесплатное членство Atomy: качественные товары, эксклюзивные преимущества и глобальное сообщество. Без платы, без ожидания.",
+    "keywords": "Atomy Казахстан, бесплатное членство Atomy, вступить в Atomy, регистрация Atomy, товары Atomy",
+    "url": [
+      "https://atomy.kz/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://atomy.kz/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Получить бесплатное членство сейчас",
+    "hero": {
+      "title": "Ваше бесплатное членство — всего один клик",
+      "description": "Присоединяйтесь сегодня к тысячам участников по всему миру. Это бесплатно, быстро, и сообщество уже ждёт вас.",
+      "button": "Получить бесплатное членство сейчас"
+    },
+    "business": {
+      "title": "Одно членство. Одно сообщество. Возможность, которая начинается сегодня.",
+      "description": "Зарегистрируйтесь сейчас, познакомьтесь с продукцией Atomy и сделайте первый шаг в нашем глобальном сообществе."
+    },
+    "benefits": {
+      "title": "Почему стоит зарегистрироваться сегодня?",
+      "items": [
+        {
+          "title": "100% бесплатное членство",
+          "description": "Без платы за регистрацию. Активируйте сейчас и начните немедленно."
+        },
+        {
+          "title": "Товары высокого качества",
+          "description": "Получите мгновенный доступ к товарам для здоровья, красоты, личной гигиены и повседневного использования."
+        },
+        {
+          "title": "Конкурентные цены",
+          "description": "Оцените философию Masstige от Atomy: абсолютное качество, абсолютная цена — с первого дня."
+        },
+        {
+          "title": "Глобальное сообщество",
+          "description": "Мгновенно подключайтесь к международному сообществу участников."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Абсолютное качество, абсолютная цена",
+      "description": "Посмотрите товары, которые уже ждут вас. Зарегистрируйтесь сейчас и начните пользоваться ими."
+    },
+    "community": {
+      "title": "Не откладывайте — присоединяйтесь к сообществу сегодня",
+      "description": "Тысячи участников уже делятся опытом, учатся и растут вместе. Сделайте свой первый шаг прямо сейчас.",
+      "button": "Присоединиться к сообществу сейчас"
+    },
+    "global": {
+      "title": "Глобальное сообщество — ваше место уже готово",
+      "description": "Подключайтесь к участникам по всему миру в момент активации бесплатного членства.",
+      "button": "Начать сейчас"
+    },
+    "cta": {
+      "title": "Зачем ждать? Зарегистрируйтесь бесплатно прямо сейчас",
+      "description": "Это займёт всего минуту и совершенно бесплатно. Получите своё членство Atomy уже сегодня.",
+      "button": "Получить бесплатное членство сейчас"
+    },
+    "footer_text": "Сообщество, которое растёт, делясь товарами, знаниями и опытом. Присоединяйтесь к Atomy Казахстан уже сегодня."
+  },
+  "KG": {
+    "country": "Kyrgyzstan",
+    "country_code": "KG",
+    "lang": "ru",
+    "title": "Получите бесплатное членство прямо сейчас | Atomy Кыргызстан",
+    "description": "Зарегистрируйтесь сейчас и получите бесплатное членство Atomy: качественные товары, эксклюзивные преимущества и глобальное сообщество. Без платы, без ожидания.",
+    "keywords": "Atomy Кыргызстан, бесплатное членство Atomy, вступить в Atomy, регистрация Atomy, товары Atomy",
+    "url": [
+      "https://atomy.kg/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://atomy.kg/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Получить бесплатное членство сейчас",
+    "hero": {
+      "title": "Ваше бесплатное членство — всего один клик",
+      "description": "Присоединяйтесь сегодня к тысячам участников по всему миру. Это бесплатно, быстро, и сообщество уже ждёт вас.",
+      "button": "Получить бесплатное членство сейчас"
+    },
+    "business": {
+      "title": "Одно членство. Одно сообщество. Возможность, которая начинается сегодня.",
+      "description": "Зарегистрируйтесь сейчас, познакомьтесь с продукцией Atomy и сделайте первый шаг в нашем глобальном сообществе."
+    },
+    "benefits": {
+      "title": "Почему стоит зарегистрироваться сегодня?",
+      "items": [
+        {
+          "title": "100% бесплатное членство",
+          "description": "Без платы за регистрацию. Активируйте сейчас и начните немедленно."
+        },
+        {
+          "title": "Товары высокого качества",
+          "description": "Получите мгновенный доступ к товарам для здоровья, красоты, личной гигиены и повседневного использования."
+        },
+        {
+          "title": "Конкурентные цены",
+          "description": "Оцените философию Masstige от Atomy: абсолютное качество, абсолютная цена — с первого дня."
+        },
+        {
+          "title": "Глобальное сообщество",
+          "description": "Мгновенно подключайтесь к международному сообществу участников."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Абсолютное качество, абсолютная цена",
+      "description": "Посмотрите товары, которые уже ждут вас. Зарегистрируйтесь сейчас и начните пользоваться ими."
+    },
+    "community": {
+      "title": "Не откладывайте — присоединяйтесь к сообществу сегодня",
+      "description": "Тысячи участников уже делятся опытом, учатся и растут вместе. Сделайте свой первый шаг прямо сейчас.",
+      "button": "Присоединиться к сообществу сейчас"
+    },
+    "global": {
+      "title": "Глобальное сообщество — ваше место уже готово",
+      "description": "Подключайтесь к участникам по всему миру в момент активации бесплатного членства.",
+      "button": "Начать сейчас"
+    },
+    "cta": {
+      "title": "Зачем ждать? Зарегистрируйтесь бесплатно прямо сейчас",
+      "description": "Это займёт всего минуту и совершенно бесплатно. Получите своё членство Atomy уже сегодня.",
+      "button": "Получить бесплатное членство сейчас"
+    },
+    "footer_text": "Сообщество, которое растёт, делясь товарами, знаниями и опытом. Присоединяйтесь к Atomy Кыргызстан уже сегодня."
+  },
+  "MN": {
+    "country": "Mongolia",
+    "country_code": "MN",
+    "lang": "mn",
+    "title": "Одоо үнэгүй гишүүнчлэлээ авах | Atomy Монгол улс",
+    "description": "Одоо бүртгүүлж, Atomy-н үнэгүй гишүүнчлэлээ аваад, өндөр чанартай бүтээгдэхүүн, онцгой давуу тал, дэлхийн хамтын нийгэмлэгийг эдлээрэй. Төлбөргүй, хүлээх шаардлагагүй.",
+    "keywords": "Atomy Монгол улс, Atomy үнэгүй гишүүнчлэл, Atomy-д нэгдэх, Atomy бүртгэл, Atomy бүтээгдэхүүн",
+    "url": [
+      "https://mn.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://mn.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Одоо үнэгүй гишүүнчлэл авах",
+    "hero": {
+      "title": "Таны үнэгүй гишүүнчлэл нэг товшилтын зайд байна",
+      "description": "Өнөөдөр дэлхийн олон мянган гишүүдтэй нэгдээрэй. Үнэгүй, хурдан, таны хамтын нийгэмлэг таныг хүлээж байна.",
+      "button": "Одоо үнэгүй гишүүнчлэлээ авах"
+    },
+    "business": {
+      "title": "Нэг гишүүнчлэл. Нэг хамтын нийгэмлэг. Өнөөдрөөс эхэлсэн боломж.",
+      "description": "Одоо бүртгүүлж, Atomy-н бүтээгдэхүүнтэй танилцаад, дэлхийн хамтын нийгэмлэгт нэгдэх анхны алхмаа хийгээрэй."
+    },
+    "benefits": {
+      "title": "Яагаад өнөөдөр бүртгүүлэх ёстой вэ?",
+      "items": [
+        {
+          "title": "100% үнэгүй гишүүнчлэл",
+          "description": "Бүртгэлийн төлбөр байхгүй. Одоо идэвхжүүлж, шууд эхлээрэй."
+        },
+        {
+          "title": "Өндөр чанартай бүтээгдэхүүн",
+          "description": "Эрүүл мэнд, гоо сайхан, хувийн ариун цэвэр, өдөр тутмын бүтээгдэхүүнд шууд хандах боломжтой."
+        },
+        {
+          "title": "Өрсөлдөхүйц үнэ",
+          "description": "Anhны өдрөөсөө эхлэн Atomy-н Masstige стратеги буюу үнэмлэхүй чанар, үнэмлэхүй үнийг мэдрээрэй."
+        },
+        {
+          "title": "Дэлхийн хамтын нийгэмлэг",
+          "description": "Бүртгүүлсэн даруйдаа олон улсын гишүүдийн хамтын нийгэмлэгт холбогдоно."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Үнэмлэхүй чанар, үнэмлэхүй үнэ",
+      "description": "Таныг хүлээж буй бүтээгдэхүүнүүдийг харна уу. Одоо бүртгүүлж, ашиглаж эхлээрэй."
+    },
+    "community": {
+      "title": "Хойшлуулах хэрэггүй — өнөөдөр хамтын нийгэмлэгт нэгдээрэй",
+      "description": "Олон мянган гишүүд аль хэдийн хуваалцаж, суралцаж, хамтдаа хөгжиж байна. Одоо та ч бас анхны алхмаа хийгээрэй.",
+      "button": "Одоо хамтын нийгэмлэгт нэгдэх"
+    },
+    "global": {
+      "title": "Дэлхийн хамтын нийгэмлэг — таны байр аль хэдийн бэлэн",
+      "description": "Үнэгүй гишүүнчлэлээ идэвхжүүлэх мөчид дэлхийн өнцөг булан бүрийн гишүүдтэй холбогдоно.",
+      "button": "Одоо эхлэх"
+    },
+    "cta": {
+      "title": "Яагаад хүлээх вэ? Одоо үнэгүй бүртгүүлээрэй",
+      "description": "Ердөө нэг минут зарцуулна, бүрэн үнэгүй. Өнөөдөр Atomy-н гишүүнчлэлээ аваарай.",
+      "button": "Одоо үнэгүй гишүүнчлэл авах"
+    },
+    "footer_text": "Бүтээгдэхүүн, мэдлэг, хамтын хөгжлийг хуваалцдаг хамтын нийгэмлэг. Өнөөдөр Atomy Монгол улс-д нэгдээрэй."
+  },
+  "UZ": {
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "lang": "uz",
+    "title": "Bepul a'zolikni hoziroq olib qoling | Atomy O'zbekiston",
+    "description": "Hoziroq ro'yxatdan o'ting va bepul Atomy a'zoligini oling: yuqori sifatli mahsulotlar, eksklyuziv imkoniyatlar va global hamjamiyat. To'lovsiz, kutishsiz.",
+    "keywords": "Atomy O'zbekiston, Atomy bepul a'zolik, Atomy'ga qo'shilish, Atomy ro'yxatdan o'tish, Atomy mahsulotlari",
+    "url": [
+      "https://atomy.uz/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://atomy.uz/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Hoziroq bepul a'zolikni oling",
+    "hero": {
+      "title": "Bepul a'zoligingizgacha bir bosish qoldi",
+      "description": "Bugun butun dunyo bo'ylab minglab a'zolarga qo'shiling. Bepul, tez, va hamjamiyatingiz sizni kutmoqda.",
+      "button": "Hoziroq bepul a'zolikni oling"
+    },
+    "business": {
+      "title": "Bitta a'zolik. Bitta hamjamiyat. Bugundan boshlanadigan imkoniyat.",
+      "description": "Hoziroq ro'yxatdan o'ting, Atomy mahsulotlari bilan tanishing va global hamjamiyatimizdagi birinchi qadamingizni qo'ying."
+    },
+    "benefits": {
+      "title": "Nega bugun ro'yxatdan o'tish kerak?",
+      "items": [
+        {
+          "title": "100% bepul a'zolik",
+          "description": "Ro'yxatdan o'tish uchun to'lov yo'q. Hoziroq faollashtiring va bevosita boshlang."
+        },
+        {
+          "title": "Yuqori sifatli mahsulotlar",
+          "description": "Sog'liq, go'zallik, shaxsiy parvarish va kundalik mahsulotlarga zudlik bilan kirish imkoniyatiga ega bo'ling."
+        },
+        {
+          "title": "Raqobatbardosh narxlar",
+          "description": "Atomyning Masstige falsafasini — mutlaq sifat, mutlaq narx — birinchi kundan boshlab his qiling."
+        },
+        {
+          "title": "Global hamjamiyat",
+          "description": "Ro'yxatdan o'tgan zahoti xalqaro a'zolar hamjamiyatiga ulaning."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Mutlaq sifat, mutlaq narx",
+      "description": "Sizni kutayotgan mahsulotlarni ko'ring. Hoziroq ro'yxatdan o'ting va foydalanishni boshlang."
+    },
+    "community": {
+      "title": "Kechiktirmang — bugun hamjamiyatga qo'shiling",
+      "description": "Minglab a'zolar allaqachon tajriba almashishmoqda, o'rganishmoqda va birgalikda rivojlanishmoqda. Endi sizning navbatingiz.",
+      "button": "Hoziroq hamjamiyatga qo'shiling"
+    },
+    "global": {
+      "title": "Global hamjamiyat — o'rningiz allaqachon tayyor",
+      "description": "Bepul a'zoligingizni faollashtirgan zahotingiz butun dunyo bo'ylab a'zolar bilan ulanasiz.",
+      "button": "Hoziroq boshlang"
+    },
+    "cta": {
+      "title": "Nega kutish kerak? Hoziroq bepul ro'yxatdan o'ting",
+      "description": "Faqat bir daqiqa vaqt oladi va butunlay bepul. Bugun Atomy a'zoligingizni oling.",
+      "button": "Hoziroq bepul a'zolikni oling"
+    },
+    "footer_text": "Mahsulotlar, bilim va o'sishni baham ko'rish orqali rivojlanadigan hamjamiyat. Bugun Atomy O'zbekiston'ga qo'shiling."
+  },
+  "TJ": {
+    "country": "Tajikistan",
+    "country_code": "TJ",
+    "lang": "ru",
+    "title": "Получите бесплатное членство прямо сейчас | Atomy Таджикистан",
+    "description": "Зарегистрируйтесь сейчас и получите бесплатное членство Atomy: качественные товары, эксклюзивные преимущества и глобальное сообщество. Без платы, без ожидания.",
+    "keywords": "Atomy Таджикистан, бесплатное членство Atomy, вступить в Atomy, регистрация Atomy, товары Atomy",
+    "url": [
+      "https://tj.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://tj.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Получить бесплатное членство сейчас",
+    "hero": {
+      "title": "Ваше бесплатное членство — всего один клик",
+      "description": "Присоединяйтесь сегодня к тысячам участников по всему миру. Это бесплатно, быстро, и сообщество уже ждёт вас.",
+      "button": "Получить бесплатное членство сейчас"
+    },
+    "business": {
+      "title": "Одно членство. Одно сообщество. Возможность, которая начинается сегодня.",
+      "description": "Зарегистрируйтесь сейчас, познакомьтесь с продукцией Atomy и сделайте первый шаг в нашем глобальном сообществе."
+    },
+    "benefits": {
+      "title": "Почему стоит зарегистрироваться сегодня?",
+      "items": [
+        {
+          "title": "100% бесплатное членство",
+          "description": "Без платы за регистрацию. Активируйте сейчас и начните немедленно."
+        },
+        {
+          "title": "Товары высокого качества",
+          "description": "Получите мгновенный доступ к товарам для здоровья, красоты, личной гигиены и повседневного использования."
+        },
+        {
+          "title": "Конкурентные цены",
+          "description": "Оцените философию Masstige от Atomy: абсолютное качество, абсолютная цена — с первого дня."
+        },
+        {
+          "title": "Глобальное сообщество",
+          "description": "Мгновенно подключайтесь к международному сообществу участников."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Абсолютное качество, абсолютная цена",
+      "description": "Посмотрите товары, которые уже ждут вас. Зарегистрируйтесь сейчас и начните пользоваться ими."
+    },
+    "community": {
+      "title": "Не откладывайте — присоединяйтесь к сообществу сегодня",
+      "description": "Тысячи участников уже делятся опытом, учатся и растут вместе. Сделайте свой первый шаг прямо сейчас.",
+      "button": "Присоединиться к сообществу сейчас"
+    },
+    "global": {
+      "title": "Глобальное сообщество — ваше место уже готово",
+      "description": "Подключайтесь к участникам по всему миру в момент активации бесплатного членства.",
+      "button": "Начать сейчас"
+    },
+    "cta": {
+      "title": "Зачем ждать? Зарегистрируйтесь бесплатно прямо сейчас",
+      "description": "Это займёт всего минуту и совершенно бесплатно. Получите своё членство Atomy уже сегодня.",
+      "button": "Получить бесплатное членство сейчас"
+    },
+    "footer_text": "Сообщество, которое растёт, делясь товарами, знаниями и опытом. Присоединяйтесь к Atomy Таджикистан уже сегодня."
+  },
+  "CA": {
+    "country": "Canada",
+    "country_code": "CA",
+    "lang": "en",
+    "title": "Claim Your Free Atomy Membership Today | Atomy Canada",
+    "description": "Sign up now for your free Atomy membership and start enjoying high-quality products, exclusive benefits and a global community — no fees, no waiting.",
+    "keywords": "Atomy Canada, free Atomy membership, join Atomy, Atomy sign up, Atomy products",
+    "url": [
+      "https://ca.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://ca.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Claim My Free Membership Now",
+    "hero": {
+      "title": "Your Free Membership Is One Click Away",
+      "description": "Join thousands of members worldwide today. It's free, it's fast, and your community is already waiting.",
+      "button": "Get My Free Membership Now"
+    },
+    "business": {
+      "title": "One Membership. One Community. An Opportunity That Starts Today.",
+      "description": "Sign up now, discover Atomy's products, and take your first step inside our global community."
+    },
+    "benefits": {
+      "title": "Why Sign Up Today?",
+      "items": [
+        {
+          "title": "100% Free Membership",
+          "description": "No sign-up fee. Activate it now and start right away."
+        },
+        {
+          "title": "High-Quality Products",
+          "description": "Get instant access to health, beauty, personal care and everyday products."
+        },
+        {
+          "title": "Competitive Prices",
+          "description": "Experience Atomy's Masstige philosophy — absolute quality, absolute price — from day one."
+        },
+        {
+          "title": "Global Community",
+          "description": "Connect instantly with an international community of members."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Absolute Quality, Absolute Price",
+      "description": "See the products waiting for you. Sign up now and start enjoying them."
+    },
+    "community": {
+      "title": "Don't Wait — Join the Community Today",
+      "description": "Thousands of members are already sharing, learning and growing together. Take your first step now.",
+      "button": "Join the Community Now"
+    },
+    "global": {
+      "title": "A Global Community — Your Spot Is Ready",
+      "description": "Connect with members worldwide the moment you activate your free membership.",
+      "button": "Get Started Now"
+    },
+    "cta": {
+      "title": "Why Wait? Sign Up Free Right Now",
+      "description": "It only takes a minute and it's completely free. Claim your Atomy membership today.",
+      "button": "Claim My Free Membership Now"
+    },
+    "footer_text": "A community built on shared products, knowledge and growth. Join Atomy Canada today."
+  },
+  "BR": {
+    "country": "Brazil",
+    "country_code": "BR",
+    "lang": "pt",
+    "title": "Garanta sua adesão gratuita agora | Atomy Brasil",
+    "description": "Cadastre-se agora e garanta sua adesão gratuita à Atomy: produtos de alta qualidade, benefícios exclusivos e uma comunidade global. Sem custo, sem espera.",
+    "keywords": "Atomy Brasil, adesão gratuita Atomy, entrar na Atomy, cadastro Atomy, produtos Atomy",
+    "url": [
+      "https://br.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://br.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Garantir minha adesão gratuita agora",
+    "hero": {
+      "title": "Sua adesão gratuita está a um clique de distância",
+      "description": "Junte-se hoje a milhares de membros pelo mundo. É gratuito, é rápido, e sua comunidade já está esperando.",
+      "button": "Quero minha adesão gratuita agora"
+    },
+    "business": {
+      "title": "Uma adesão. Uma comunidade. Uma oportunidade que começa hoje.",
+      "description": "Cadastre-se agora, conheça os produtos Atomy e dê o primeiro passo dentro da nossa comunidade global."
+    },
+    "benefits": {
+      "title": "Por que se cadastrar hoje?",
+      "items": [
+        {
+          "title": "Adesão 100% gratuita",
+          "description": "Sem taxa de inscrição. Ative agora e comece imediatamente."
+        },
+        {
+          "title": "Produtos de alta qualidade",
+          "description": "Tenha acesso imediato a produtos de saúde, beleza, cuidados pessoais e uso diário."
+        },
+        {
+          "title": "Preços competitivos",
+          "description": "Experimente a filosofia Masstige da Atomy: qualidade absoluta, preço absoluto, desde o primeiro dia."
+        },
+        {
+          "title": "Comunidade global",
+          "description": "Conecte-se instantaneamente a uma comunidade internacional de membros."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Qualidade absoluta, preço absoluto",
+      "description": "Veja os produtos que já estão esperando por você. Cadastre-se agora e comece a aproveitar."
+    },
+    "community": {
+      "title": "Não espere — junte-se à comunidade hoje",
+      "description": "Milhares de membros já estão compartilhando, aprendendo e crescendo juntos. Dê o seu primeiro passo agora.",
+      "button": "Entrar na comunidade agora"
+    },
+    "global": {
+      "title": "Uma comunidade global — seu lugar já está pronto",
+      "description": "Conecte-se com membros de todo o mundo no momento em que ativar sua adesão gratuita.",
+      "button": "Começar agora"
+    },
+    "cta": {
+      "title": "Por que esperar? Cadastre-se gratuitamente agora mesmo",
+      "description": "Leva apenas um minuto e é totalmente gratuito. Garanta sua adesão à Atomy hoje.",
+      "button": "Garantir minha adesão gratuita agora"
+    },
+    "footer_text": "Uma comunidade que cresce compartilhando produtos, conhecimento e experiências. Junte-se à Atomy Brasil hoje mesmo."
+  },
+  "RU": {
+    "country": "Russia",
+    "country_code": "RU",
+    "lang": "ru",
+    "title": "Получите бесплатное членство прямо сейчас | Atomy Россия",
+    "description": "Зарегистрируйтесь сейчас и получите бесплатное членство Atomy: качественные товары, эксклюзивные преимущества и глобальное сообщество. Без платы, без ожидания.",
+    "keywords": "Atomy Россия, бесплатное членство Atomy, вступить в Atomy, регистрация Atomy, товары Atomy",
+    "url": [
+      "https://atomy.ru/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://atomy.ru/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Получить бесплатное членство сейчас",
+    "hero": {
+      "title": "Ваше бесплатное членство — всего один клик",
+      "description": "Присоединяйтесь сегодня к тысячам участников по всему миру. Это бесплатно, быстро, и сообщество уже ждёт вас.",
+      "button": "Получить бесплатное членство сейчас"
+    },
+    "business": {
+      "title": "Одно членство. Одно сообщество. Возможность, которая начинается сегодня.",
+      "description": "Зарегистрируйтесь сейчас, познакомьтесь с продукцией Atomy и сделайте первый шаг в нашем глобальном сообществе."
+    },
+    "benefits": {
+      "title": "Почему стоит зарегистрироваться сегодня?",
+      "items": [
+        {
+          "title": "100% бесплатное членство",
+          "description": "Без платы за регистрацию. Активируйте сейчас и начните немедленно."
+        },
+        {
+          "title": "Товары высокого качества",
+          "description": "Получите мгновенный доступ к товарам для здоровья, красоты, личной гигиены и повседневного использования."
+        },
+        {
+          "title": "Конкурентные цены",
+          "description": "Оцените философию Masstige от Atomy: абсолютное качество, абсолютная цена — с первого дня."
+        },
+        {
+          "title": "Глобальное сообщество",
+          "description": "Мгновенно подключайтесь к международному сообществу участников."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Абсолютное качество, абсолютная цена",
+      "description": "Посмотрите товары, которые уже ждут вас. Зарегистрируйтесь сейчас и начните пользоваться ими."
+    },
+    "community": {
+      "title": "Не откладывайте — присоединяйтесь к сообществу сегодня",
+      "description": "Тысячи участников уже делятся опытом, учатся и растут вместе. Сделайте свой первый шаг прямо сейчас.",
+      "button": "Присоединиться к сообществу сейчас"
+    },
+    "global": {
+      "title": "Глобальное сообщество — ваше место уже готово",
+      "description": "Подключайтесь к участникам по всему миру в момент активации бесплатного членства.",
+      "button": "Начать сейчас"
+    },
+    "cta": {
+      "title": "Зачем ждать? Зарегистрируйтесь бесплатно прямо сейчас",
+      "description": "Это займёт всего минуту и совершенно бесплатно. Получите своё членство Atomy уже сегодня.",
+      "button": "Получить бесплатное членство сейчас"
+    },
+    "footer_text": "Сообщество, которое растёт, делясь товарами, знаниями и опытом. Присоединяйтесь к Atomy Россия уже сегодня."
+  },
+  "TR": {
+    "country": "Türkiye",
+    "country_code": "TR",
+    "lang": "tr",
+    "title": "Ücretsiz üyeliğinizi hemen alın | Atomy Türkiye",
+    "description": "Şimdi kaydolun ve ücretsiz Atomy üyeliğinizi alın: yüksek kaliteli ürünler, özel avantajlar ve küresel bir topluluk. Ücretsiz, beklemeden.",
+    "keywords": "Atomy Türkiye, ücretsiz Atomy üyeliği, Atomy'ye katıl, Atomy kayıt, Atomy ürünleri",
+    "url": [
+      "https://tr.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://tr.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Ücretsiz Üyeliğimi Şimdi Al",
+    "hero": {
+      "title": "Ücretsiz üyeliğiniz sadece bir tık ötede",
+      "description": "Bugün dünyanın dört bir yanından binlerce üyeye katılın. Ücretsiz, hızlı ve topluluğunuz sizi bekliyor.",
+      "button": "Ücretsiz Üyeliğimi Şimdi Al"
+    },
+    "business": {
+      "title": "Bir üyelik. Bir topluluk. Bugün başlayan bir fırsat.",
+      "description": "Şimdi kaydolun, Atomy ürünlerini keşfedin ve küresel topluluğumuzdaki ilk adımınızı atın."
+    },
+    "benefits": {
+      "title": "Neden bugün kaydolmalısınız?",
+      "items": [
+        {
+          "title": "%100 Ücretsiz Üyelik",
+          "description": "Kayıt ücreti yok. Şimdi etkinleştirin ve hemen başlayın."
+        },
+        {
+          "title": "Yüksek Kaliteli Ürünler",
+          "description": "Sağlık, güzellik, kişisel bakım ve günlük ürünlere anında erişim sağlayın."
+        },
+        {
+          "title": "Rekabetçi Fiyatlar",
+          "description": "Atomy'nin Masstige felsefesini — mutlak kalite, mutlak fiyat — ilk günden deneyimleyin."
+        },
+        {
+          "title": "Küresel Topluluk",
+          "description": "Kaydolduğunuz anda uluslararası üye topluluğuna bağlanın."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Mutlak Kalite, Mutlak Fiyat",
+      "description": "Sizi bekleyen ürünleri görün. Şimdi kaydolun ve keyfini çıkarmaya başlayın."
+    },
+    "community": {
+      "title": "Beklemeyin — Bugün Topluluğa Katılın",
+      "description": "Binlerce üye zaten paylaşıyor, öğreniyor ve birlikte büyüyor. İlk adımınızı şimdi atın.",
+      "button": "Topluluğa Şimdi Katıl"
+    },
+    "global": {
+      "title": "Küresel Bir Topluluk — Yeriniz Hazır",
+      "description": "Ücretsiz üyeliğinizi etkinleştirdiğiniz anda dünyanın dört bir yanındaki üyelerle bağlantı kurun.",
+      "button": "Şimdi Başla"
+    },
+    "cta": {
+      "title": "Neden bekleyesiniz? Hemen ücretsiz kaydolun",
+      "description": "Sadece bir dakikanızı alır ve tamamen ücretsizdir. Atomy üyeliğinizi bugün alın.",
+      "button": "Ücretsiz Üyeliğimi Şimdi Al"
+    },
+    "footer_text": "Ürün, bilgi ve büyümeyi paylaşarak gelişen bir topluluk. Bugün Atomy Türkiye'ye katılın."
+  },
+  "UK": {
+    "country": "United Kingdom",
+    "country_code": "UK",
+    "lang": "en",
+    "title": "Claim Your Free Atomy Membership Today | Atomy the United Kingdom",
+    "description": "Sign up now for your free Atomy membership and start enjoying high-quality products, exclusive benefits and a global community — no fees, no waiting.",
+    "keywords": "Atomy the United Kingdom, free Atomy membership, join Atomy, Atomy sign up, Atomy products",
+    "url": [
+      "https://uk.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://uk.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Claim My Free Membership Now",
+    "hero": {
+      "title": "Your Free Membership Is One Click Away",
+      "description": "Join thousands of members worldwide today. It's free, it's fast, and your community is already waiting.",
+      "button": "Get My Free Membership Now"
+    },
+    "business": {
+      "title": "One Membership. One Community. An Opportunity That Starts Today.",
+      "description": "Sign up now, discover Atomy's products, and take your first step inside our global community."
+    },
+    "benefits": {
+      "title": "Why Sign Up Today?",
+      "items": [
+        {
+          "title": "100% Free Membership",
+          "description": "No sign-up fee. Activate it now and start right away."
+        },
+        {
+          "title": "High-Quality Products",
+          "description": "Get instant access to health, beauty, personal care and everyday products."
+        },
+        {
+          "title": "Competitive Prices",
+          "description": "Experience Atomy's Masstige philosophy — absolute quality, absolute price — from day one."
+        },
+        {
+          "title": "Global Community",
+          "description": "Connect instantly with an international community of members."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Absolute Quality, Absolute Price",
+      "description": "See the products waiting for you. Sign up now and start enjoying them."
+    },
+    "community": {
+      "title": "Don't Wait — Join the Community Today",
+      "description": "Thousands of members are already sharing, learning and growing together. Take your first step now.",
+      "button": "Join the Community Now"
+    },
+    "global": {
+      "title": "A Global Community — Your Spot Is Ready",
+      "description": "Connect with members worldwide the moment you activate your free membership.",
+      "button": "Get Started Now"
+    },
+    "cta": {
+      "title": "Why Wait? Sign Up Free Right Now",
+      "description": "It only takes a minute and it's completely free. Claim your Atomy membership today.",
+      "button": "Claim My Free Membership Now"
+    },
+    "footer_text": "A community built on shared products, knowledge and growth. Join Atomy the United Kingdom today."
+  },
+  "EU": {
+    "country": "Europe (Germany)",
+    "country_code": "EU",
+    "lang": "de",
+    "title": "Sichere dir jetzt deine kostenlose Mitgliedschaft | Atomy Europa",
+    "description": "Melde dich jetzt an und sichere dir deine kostenlose Atomy-Mitgliedschaft: hochwertige Produkte, exklusive Vorteile und eine globale Community. Ohne Kosten, ohne Wartezeit.",
+    "keywords": "Atomy Europa, kostenlose Atomy Mitgliedschaft, Atomy beitreten, Atomy Anmeldung, Atomy Produkte",
+    "url": [
+      "https://eu.atomy.com/join/memberGate?easyreg=MzUxNTgwNDE",
+      "https://eu.atomy.com/join/memberGate?easyreg=NDY3NTQwNDc"
+    ],
+    "button": "Jetzt kostenlose Mitgliedschaft sichern",
+    "hero": {
+      "title": "Deine kostenlose Mitgliedschaft ist nur einen Klick entfernt",
+      "description": "Werde noch heute Teil von Tausenden Mitgliedern weltweit. Kostenlos, schnell, und deine Community wartet bereits.",
+      "button": "Jetzt kostenlose Mitgliedschaft sichern"
+    },
+    "business": {
+      "title": "Eine Mitgliedschaft. Eine Community. Eine Chance, die heute beginnt.",
+      "description": "Melde dich jetzt an, entdecke die Produkte von Atomy und mach deinen ersten Schritt in unserer globalen Community."
+    },
+    "benefits": {
+      "title": "Warum du dich heute anmelden solltest",
+      "items": [
+        {
+          "title": "100 % kostenlose Mitgliedschaft",
+          "description": "Keine Anmeldegebühr. Jetzt aktivieren und sofort starten."
+        },
+        {
+          "title": "Hochwertige Produkte",
+          "description": "Sofortiger Zugang zu Produkten aus Gesundheit, Beauty, Körperpflege und Alltag."
+        },
+        {
+          "title": "Attraktive Preise",
+          "description": "Erlebe Atomys Masstige-Philosophie: absolute Qualität, absoluter Preis — vom ersten Tag an."
+        },
+        {
+          "title": "Globale Community",
+          "description": "Verbinde dich sofort mit einer internationalen Mitglieder-Community."
+        }
+      ]
+    },
+    "gallery": [
+      "/gallery/slide1.jpg",
+      "/gallery/slide2.jpeg",
+      "/gallery/slide3.jpeg",
+      "/gallery/slide4.jpeg",
+      "/gallery/slide5.jpeg"
+    ],
+    "gallery_section": {
+      "title": "Absolute Qualität, absoluter Preis",
+      "description": "Entdecke die Produkte, die schon auf dich warten. Melde dich jetzt an und genieße sie."
+    },
+    "community": {
+      "title": "Warte nicht — tritt der Community noch heute bei",
+      "description": "Tausende Mitglieder teilen bereits Wissen, lernen und wachsen gemeinsam. Mach jetzt deinen ersten Schritt.",
+      "button": "Jetzt der Community beitreten"
+    },
+    "global": {
+      "title": "Eine globale Community — dein Platz ist bereit",
+      "description": "Verbinde dich mit Mitgliedern weltweit, sobald du deine kostenlose Mitgliedschaft aktivierst.",
+      "button": "Jetzt starten"
+    },
+    "cta": {
+      "title": "Warum warten? Jetzt kostenlos anmelden",
+      "description": "Es dauert nur eine Minute und ist völlig kostenlos. Sichere dir deine Atomy-Mitgliedschaft noch heute.",
+      "button": "Jetzt kostenlose Mitgliedschaft sichern"
+    },
+    "footer_text": "Eine Community, die durch geteilte Produkte, Wissen und gemeinsames Wachstum wächst. Werde noch heute Teil von Atomy Europa."
+  }
+}

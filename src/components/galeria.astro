@@ -1,0 +1,84 @@
+---
+interface Props {
+    slides: string[];
+}
+const { slides } = Astro.props;
+---
+{slides.length > 0 && (
+<div class="flex w-full items-center justify-center gap-2 md:gap-4" data-carousel>
+    <button
+        type="button"
+        data-prev
+        aria-label="Previous"
+        class="shrink-0 rounded-full bg-atomy-deep/25 p-1.5 text-white transition hover:bg-atomy-deep/50 md:p-2"
+    >
+        <svg xmlns="http://www.w3.org/2000/svg" class="size-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+        </svg>
+    </button>
+
+    <div class="w-full max-w-xl overflow-hidden rounded-2xl">
+        <div class="flex transition-transform duration-500 ease-in-out" data-track>
+            {slides.map((slide: string, index: number) => (
+                <img
+                    src={slide}
+                    class="w-full shrink-0 object-cover"
+                    alt={`Atomy ${index + 1}`}
+                    width="576"
+                    height="384"
+                    loading="lazy"
+                />
+            ))}
+        </div>
+    </div>
+
+    <button
+        type="button"
+        data-next
+        aria-label="Next"
+        class="shrink-0 rounded-full bg-atomy-deep/25 p-1.5 text-white transition hover:bg-atomy-deep/50 md:p-2"
+    >
+        <svg xmlns="http://www.w3.org/2000/svg" class="size-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+        </svg>
+    </button>
+</div>
+)}
+
+<script>
+    document.querySelectorAll<HTMLElement>('[data-carousel]').forEach((carousel) => {
+        const track = carousel.querySelector<HTMLElement>('[data-track]');
+        if (!track || track.children.length === 0) return;
+
+        const total = track.children.length;
+        let current = 0;
+
+        const goToSlide = (index: number) => {
+            const slideWidth = track.children[0].clientWidth;
+            track.style.transform = `translateX(-${index * slideWidth}px)`;
+        };
+
+        const step = (delta: number) => {
+            current = (current + delta + total) % total;
+            goToSlide(current);
+        };
+
+        let timer = setInterval(() => step(1), 3000);
+        const restart = () => {
+            clearInterval(timer);
+            timer = setInterval(() => step(1), 3000);
+        };
+
+        carousel.querySelector('[data-next]')?.addEventListener('click', () => {
+            step(1);
+            restart();
+        });
+        carousel.querySelector('[data-prev]')?.addEventListener('click', () => {
+            step(-1);
+            restart();
+        });
+
+        window.addEventListener('resize', () => goToSlide(current));
+        goToSlide(current);
+    });
+</script>

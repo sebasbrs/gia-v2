@@ -1,0 +1,21 @@
+---
+const currentYear = new Date().getFullYear();
+const siteName = 'Global Imperials Atomy';
+interface Props {
+    footerTxt?: string;
+}
+const { footerTxt } = Astro.props;
+---
+<footer class="w-full bg-white text-slate-600">
+    <div class="mx-auto flex max-w-3xl flex-col items-center gap-5 px-6 py-14">
+        <img src="/logo-atomy.svg" alt="Atomy" width="120" height="36" class="h-7 w-auto opacity-70" />
+        <p class="text-center text-sm font-light leading-relaxed">
+            {footerTxt}
+        </p>
+    </div>
+    <div class="border-t border-slate-200">
+        <div class="mx-auto max-w-7xl px-6 py-6 text-center text-sm font-light">
+            <a href="/" class="hover:text-atomy">{siteName}</a> ©{currentYear}
+        </div>
+    </div>
+</footer>

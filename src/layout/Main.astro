@@ -1,0 +1,63 @@
+---
+import { Font } from 'astro:assets';
+import { getAllCountries } from '../lib/atomydata';
+import '../styles/global.css';
+
+interface Props {
+    title: string;
+    description: string;
+    keywords?: string;
+    lang: string;
+    slug?: string;
+    ogImage?: string;
+}
+
+const { title, description, keywords, lang, slug, ogImage = '/atomynegocioglobal_cover.jpeg' } = Astro.props;
+
+const site = Astro.site ?? new URL('https://www.globalimperialsatomy.com');
+const canonical = new URL(slug ? `/atomy/${slug}/` : '/', site).href;
+const ogImageUrl = new URL(ogImage, site).href;
+const alternates = getAllCountries().map((country) => ({
+    hreflang: country.hreflang,
+    href: new URL(`/atomy/${country.slug}/`, site).href,
+}));
+---
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{title}</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="canonical" href={canonical}>
+    <meta name="description" content={description}>
+    {keywords && <meta name="keywords" content={keywords} />}
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#00b5ef">
+    <meta name="google-adsense-account" content="ca-pub-3442782683509797">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3442782683509797"
+     crossorigin="anonymous"></script>
+
+    <Font cssVariable="--font-atomy" />
+
+    {alternates.map(({ hreflang, href }) => (
+        <link rel="alternate" hreflang={hreflang} href={href} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={new URL('/', site).href}>
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Global Imperials Atomy">
+    <meta property="og:locale" content={lang}>
+    <meta property="og:title" content={title}>
+    <meta property="og:description" content={description}>
+    <meta property="og:image" content={ogImageUrl}>
+    <meta property="og:url" content={canonical}>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content={title}>
+    <meta name="twitter:description" content={description}>
+    <meta name="twitter:image" content={ogImageUrl}>
+</head>
+<body class="min-h-screen bg-white text-slate-800 antialiased">
+    <slot />
+</body>
+</html>

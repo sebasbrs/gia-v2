@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+    --color-atomy: #00b5ef;
+    --color-atomy-dark: #0090c0;
+    --color-atomy-deep: #00354a;
+    --color-atomy-tint: #e6f8fe;
+    --font-sans: var(--font-atomy), system-ui, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+}
