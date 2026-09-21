@@ -1,0 +1,189 @@
+---
+import Gallery from '../components/galeria.astro';
+import MainLayout from '../layout/Main.astro';
+import Footer from '../components/footer.astro';
+import { getAllCountries, updateUrls, type AtomyCountry } from '../lib/atomydata';
+
+export async function getStaticPaths() {
+    const countries = getAllCountries();
+    return Promise.all(
+        countries.map(async ({ slug, data }) => ({
+            params: { slug },
+            props: { data, urls: data.url },
+        })),
+    );
+}
+
+interface Props {
+    data: AtomyCountry;
+    urls: string[];
+}
+
+const { data, urls } = Astro.props;
+const { slug } = Astro.params;
+const fallbackUrl = urls[0] ?? '#';
+---
+<MainLayout
+    title={data.title}
+    description={data.description}
+    keywords={data.keywords}
+    lang={data.lang}
+    slug={slug}
+>
+    <header class="sticky top-0 z-40 border-b border-slate-100 bg-white/90 backdrop-blur">
+        <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-5 py-3">
+            <img src="/logo-atomy.svg" alt="Atomy" width="132" height="40" class="h-8 w-auto" />
+            <a
+                data-cta
+                href={fallbackUrl}
+                rel="noopener"
+                class="hidden rounded-full bg-atomy px-5 py-2.5 text-sm font-medium text-white transition hover:bg-atomy-dark sm:inline-block"
+            >
+                {data.button}
+            </a>
+        </div>
+    </header>
+
+    <main class="pb-24 sm:pb-0">
+        <section class="bg-linear-to-b from-atomy to-atomy-dark px-5 py-16 text-white sm:py-24">
+            <div class="mx-auto flex max-w-3xl flex-col items-center gap-6 text-center">
+                <span class="rounded-full bg-white/15 px-4 py-1.5 text-xs font-medium tracking-wide uppercase">
+                    {data.country}
+                </span>
+                <h1 class="text-3xl font-bold leading-tight text-balance sm:text-5xl">{data.hero.title}</h1>
+                <p class="max-w-2xl text-lg font-light text-white/90 text-pretty">{data.hero.description}</p>
+                <a
+                    data-cta
+                    href={fallbackUrl}
+                    rel="noopener"
+                    class="w-full max-w-md rounded-full bg-white px-8 py-4 text-lg font-bold text-atomy shadow-xl transition hover:scale-[1.02] hover:bg-atomy-tint sm:w-auto"
+                >
+                    {data.hero.button}
+                </a>
+            </div>
+        </section>
+
+        <section class="px-5 py-16 sm:py-20">
+            <div class="mx-auto grid max-w-5xl items-center gap-10 md:grid-cols-2">
+                <img
+                    src="/atomynegocioglobal_cover.jpeg"
+                    alt={data.business.title}
+                    width="600"
+                    height="360"
+                    loading="lazy"
+                    class="w-full rounded-2xl object-cover shadow-lg"
+                />
+                <div class="flex flex-col gap-5">
+                    <h2 class="text-2xl font-bold text-atomy-deep text-balance sm:text-3xl">{data.business.title}</h2>
+                    <p class="text-lg font-light leading-relaxed text-slate-600">{data.business.description}</p>
+                    <a
+                        data-cta
+                        href={fallbackUrl}
+                        rel="noopener"
+                        class="w-fit rounded-full bg-atomy px-7 py-3.5 font-medium text-white transition hover:bg-atomy-dark"
+                    >
+                        {data.button}
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="bg-atomy-tint px-5 py-16 sm:py-20">
+            <div class="mx-auto max-w-5xl">
+                <h2 class="text-center text-2xl font-bold text-atomy-deep text-balance sm:text-3xl">
+                    {data.benefits.title}
+                </h2>
+                <ul class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+                    {data.benefits.items.map((item: { title: string; description: string }) => (
+                        <li class="flex h-full flex-col gap-3 rounded-2xl bg-white p-6 shadow-sm">
+                            <svg
+                                class="size-8 shrink-0 text-atomy"
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                                aria-hidden="true"
+                            >
+                                <path d="M20 6 9 17l-5-5" />
+                            </svg>
+                            <h3 class="font-bold text-atomy-deep">{item.title}</h3>
+                            <p class="text-sm font-light leading-relaxed text-slate-600">{item.description}</p>
+                        </li>
+                    ))}
+                </ul>
+            </div>
+        </section>
+
+        <section class="px-5 py-16 sm:py-20">
+            <div class="mx-auto flex max-w-3xl flex-col items-center gap-6 text-center">
+                <h2 class="text-2xl font-bold text-atomy-deep text-balance sm:text-3xl">{data.gallery_section.title}</h2>
+                <p class="text-lg font-light text-slate-600 text-pretty">{data.gallery_section.description}</p>
+                <Gallery slides={data.gallery ?? []} />
+                <a
+                    data-cta
+                    href={fallbackUrl}
+                    rel="noopener"
+                    class="w-full max-w-md rounded-full bg-atomy px-8 py-4 text-lg font-bold text-white shadow-lg transition hover:bg-atomy-dark sm:w-auto"
+                >
+                    {data.button}
+                </a>
+            </div>
+        </section>
+
+        <section class="bg-slate-50 px-5 py-16 sm:py-20">
+            <div class="mx-auto grid max-w-5xl gap-6 md:grid-cols-2">
+                {[data.community, data.global].map((block) => (
+                    <div class="flex h-full flex-col items-start gap-4 rounded-2xl bg-white p-8 shadow-sm">
+                        <h2 class="text-xl font-bold text-atomy-deep text-balance sm:text-2xl">{block.title}</h2>
+                        <p class="font-light leading-relaxed text-slate-600">{block.description}</p>
+                        <a
+                            data-cta
+                            href={fallbackUrl}
+                            rel="noopener"
+                            class="mt-auto rounded-full border-2 border-atomy px-6 py-3 font-medium text-atomy transition hover:bg-atomy hover:text-white"
+                        >
+                            {block.button}
+                        </a>
+                    </div>
+                ))}
+            </div>
+        </section>
+
+        <section class="bg-linear-to-b from-atomy-dark to-atomy px-5 py-16 text-white sm:py-24">
+            <div class="mx-auto flex max-w-3xl flex-col items-center gap-6 text-center">
+                <h2 class="text-3xl font-bold text-balance sm:text-4xl">{data.cta.title}</h2>
+                <p class="max-w-2xl text-lg font-light text-white/90 text-pretty">{data.cta.description}</p>
+                <a
+                    data-cta
+                    href={fallbackUrl}
+                    rel="noopener"
+                    class="w-full max-w-md rounded-full bg-white px-8 py-4 text-lg font-bold text-atomy shadow-xl transition hover:scale-[1.02] hover:bg-atomy-tint sm:w-auto"
+                >
+                    {data.cta.button}
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <Footer footerTxt={data.footer_text} />
+
+    <div class="fixed inset-x-0 bottom-0 z-40 border-t border-slate-200 bg-white/95 p-3 backdrop-blur sm:hidden">
+        <a
+            data-cta
+            href={fallbackUrl}
+            rel="noopener"
+            class="block rounded-full bg-atomy px-6 py-3.5 text-center font-bold text-white"
+        >
+            {data.button}
+        </a>
+    </div>
+
+    <script is:inline define:vars={{ urls }}>
+        if (urls.length > 1) {
+            const picked = urls[Math.floor(Math.random() * urls.length)];
+            document.querySelectorAll('[data-cta]').forEach((link) => link.setAttribute('href', picked));
+        }
+    </script>
+</MainLayout>
